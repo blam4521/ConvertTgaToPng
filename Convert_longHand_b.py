@@ -28,7 +28,7 @@ def convert_jpg(img_dir, image_format, scale_img):
 			img_file = img_file.resize((width, height), Image.ANTIALIAS)
 			try:
 				fileName = os.path.splitext(aFile)[0] #without file extension
-				img_file.save(img_dir+"/"+ fileName +"_resize.png",format="png", 
+				img_file.save(subdirectory+"/"+ fileName +"_resize.png",format="png", 
 											optimize=True, 
 											quality=100, 
 											progressive=True)
