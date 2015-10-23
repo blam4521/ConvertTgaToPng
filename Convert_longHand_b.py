@@ -12,7 +12,14 @@ def convert_jpg(img_dir, image_format, scale_img):
 	input scale
 	'''
 	subdirectory = img_dir + "/texture_small"
-	os.makedirs(subdirectory)
+	
+	if os.path.exists(subdirectory):
+		print 'there is already a folder named %s'%(subdirectory)
+		
+	else:
+		print 'folder not created, creating folder'
+		makeDir = os.makedirs(subdirectory)
+
 	
 
 	for aFile in os.listdir(img_dir):
