@@ -1,0 +1,67 @@
+*Left:  Trunk_Present_Dft_WoodPlanks_RGB_V02_4K_v0001.0000.png
+*Left:  Dishes_Dft_Plate_RGB_4K_v0001.0000.tga
+*Left:  candle_Dft_Body_RGB_Diffuse_4K_v0001.0000.tga
+*Left:  CookiePlate_Dft_plate_RGB_01_4K_v0001.0000.tga
+*Left:  Plate_tower_RGB_v0001.0000.tga
+*Left:  Trunk_Present_Dft_WoodPlanks_SPC_V01_4K_v0001.0000.png
+
+*Left:  Trunk_Present_Dft_Triangles_RGB_V01_4K_v0001.0000.png
+*Left:  Trunk_Present_Dft_Lock_RGB_V01_4K_v0001.0000.png
+*Left:  Trunk_Present_Dft_Legs_RGB_V01_4K_v0001.0000.png
+*Left:  WaterCOL_v0001.0000.tga
+
+*Left:  Trunk_PresentWings_Dft_Wings_RGB_V01_4K_v0001.0000.png
+*Left:  Cake_BirthdayWillow_Cakes_RGB_4k_v0001.0000.png
+*Left:  Cupcakes_Dft_Full_RGB_001_4K_v0001.0000.tga
+
+*Left:  CrumbleCrispies_RGB_v0001.0000.png
+*Left:  Trunk_Present_Dft_WoodPlanks_NRM_V01_4K_v0001.0000.png
+
+*Left:  Nutshells_Dft_Nut_RGB_1_4k_v0001.0000.png
+*Left:  TeenFemale001_dft_Clothing_SPC_V01_v0001.0000.tga
+
+*Left:  Daisy_CheerSquad_Shoes_RGB_DefaultColour_4K_v0001.0000.p
+*Left:  CookiePlate_Dft_Icing_RGB_05_4K_v0001.0000.tga
+
+*Left:  Gemstone_low_v0001.0000.png
+*Left:  CookiePlate_Dft_Cookie_RGB_01_4K_v0001.0000.tga
+
+*Left:  Trunk_Present_Dft_GoldPlanks_RGB_V01_4K_v0001.0000.png
+*Left:  Bracelet_Mom_dft_All_RGB_V01_4K_v0001.0000.png
+
+*Left:  Trunk_Present_Dft_Bolts_RGB_V01_4K_v0001.0000.png
+*Left:  Daisy_CheerSquad_Shoes_RGB_LIT_4K_v0001.0000.png
+
+
+*Right:  BouquetMagician_FlowerOrange_SPC_v0001.0000.png
+*Right:  BouquetMagician_Stem_RGB_v0001.0000.png
+*Right:  BouquetMagician_FlowerPurple_SPC_v0001.0000.png
+*Right:  BouquetMagician_PosieRed_RGB_v0001.0000.png
+*Right:  BouquetMagician_FlowerYellow_SPC_v0001.0000.png
+
+*Right:  Egg_Unicorn_Prop_RGB_Rainbows_1K_v0001.0000.png
+
+*Right:  BouquetMagician_PosieBlue_SPC_v0001.0000.png
+*Right:  BouquetMagician_PosieRed_SPC_v0001.0000.png
+
+*Right:  SparkleBall_Dft_Main_Pattern_SPEC_4k_v0001.0000.png
+*Right:  SparkleBall_Dft_Main_Pattern_RGB_4k_v0001.0000.png
+
+*Right:  BouquetMagician_PosiePink_RGB_v0001.0000.png
+*Right:  BouquetMagician_FlowerPurple_RGB_v0001.0000.png
+*Right:  BouquetMagician_PosiePink_SPC_v0001.0000.png
+*Right:  BouquetMagician_FlowerOrange_RGB_v0001.0000.png
+*Right:  BouquetMagician_Stem_SPC_v0001.0000.png
+*Right:  BouquetMagician_PosieBlue_RGB_v0001.0000.png
+
+*Right:  Egg_Unicorn_Prop_RGB_Plain_1K_v0001.0000.png
+
+*Right:  BouquetMagician_PosiePurple_SPC_v0001.0000.png
+*Right:  BouquetMagician_FlowerYellow_RGB_v0001.0000.png
+*Right:  BouquetMagician_PosiePurple_RGB_v0001.0000.png
+
+*Right:  BouquetMagician_FlowerPurple_SPC_v0001.0000.png
+*Right:  BouquetMagician_PosieRed_RGB_v0001.0000.png
+
+
+

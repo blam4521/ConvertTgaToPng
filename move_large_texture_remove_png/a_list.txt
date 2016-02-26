@@ -1,0 +1,5 @@
+X:/little_charmers/maya/proj/chgarygnome/textures
+X:/little_charmers/maya/proj/chgarygnomehair/textures
+X:/little_charmers/maya/proj/chgarygnomepox/textures
+X:/little_charmers/maya/proj/chgarygnomepyjamas/textures
+X:/little_charmers/maya/proj/chgarygnomegarden/textures

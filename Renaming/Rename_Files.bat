@@ -1,0 +1,1 @@
+c:\python27\python -i rename_01.py

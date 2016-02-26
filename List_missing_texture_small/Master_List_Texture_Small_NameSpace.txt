@@ -1,0 +1,28 @@
+*missing texture_small folder or texture_large is still there
+**has not been downsized
+***fixed
+
+X:/little_charmers/maya/proj/chgarygnome/textures_small
+X:/little_charmers/maya/proj/chgarygnomehair/textures_small
+X:/little_charmers/maya/proj/chgarygnomepox/textures_small
+X:/little_charmers/maya/proj/chgarygnomepyjamas/textures_small
+X:/little_charmers/maya/proj/chgarygnomegarden/textures_small
+X:\little_charmers\maya\proj\bkups\jan7_2015\chhazelsmom\textures_small
+
+
+
+X:/little_charmers/maya/proj/chfairychoir01/textures_small
+X:/little_charmers/maya/proj/chfairychoir02/textures_small
+X:/little_charmers/maya/proj/chfairychoir03/textures_small
+X:/little_charmers/maya/proj/chfairychoir04/textures_small
+X:/little_charmers/maya/proj/chunicornlulu/textures_small
+X:/little_charmers/maya/proj/chunicornmom/textures_small
+X:/little_charmers/maya/proj/chunicornhazel/textures_small
+X:/little_charmers/maya/proj/chunicornmom01/textures_small
+X:/little_charmers/maya/proj/chunicornmom02/textures_small
+X:/little_charmers/maya/proj/chunicornmom03/textures_small
+X:/little_charmers/maya/proj/chunicornmom04/textures_small
+X:/little_charmers/maya/proj/chunicornmom05/textures_small
+X:/little_charmers/maya/proj/chunicornmom06/textures_small
+X:/little_charmers/maya/proj/chfrogbutterfly02/textures_small
+X:/little_charmers/maya/proj/chsallysweetly/textures_small

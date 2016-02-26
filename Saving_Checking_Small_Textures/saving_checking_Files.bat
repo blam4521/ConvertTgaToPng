@@ -1,0 +1,1 @@
+c:\python27\python -i saving_small_texture.py
