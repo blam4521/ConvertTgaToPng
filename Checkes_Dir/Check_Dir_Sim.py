@@ -5,8 +5,8 @@ import filecmp
 from filecmp import dircmp
 import filecmp
 
-dir1 = "X:/little_charmers2/maya/season1_proj/environments/textures"
-dir2 = "X:/little_charmers2/maya/season1_proj/environments/textures_small"
+dir1 = " "
+dir2 = " "
 
 dcmp = dircmp(dir1, dir2) 
 
