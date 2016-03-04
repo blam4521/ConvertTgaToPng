@@ -13,8 +13,8 @@ def convert_tga(img_dir):
 	'''
 
 	#copy the original images into a backup directory
-	dest = img_dir + "/textures_small"
-	src = img_dir + "/textures"
+	dest = img_dir + " "
+	src = img_dir + " "
 	#checks to see if there is a directory, boolean logic, not true = false, not false = true
 	
 	
@@ -44,7 +44,7 @@ def convert_tga(img_dir):
  
 
 if __name__ == "__main__":
-	f = open('a_list.txt','r')
+	f = open(' ','r')
 	for line in f:
 		img_dir = line.rstrip('\n')
 		print "dealing with this directory:", img_dir
