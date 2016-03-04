@@ -22,7 +22,7 @@ def check_name(img_dir):
 
 
 if __name__ == '__main__':
-	f = open('a_list.txt', 'r')
+	f = open(' ', 'r')
 	for line in f:
 		img_dir = line.rstrip('\n')
 		#print 'dealing with this director ', img_dir
