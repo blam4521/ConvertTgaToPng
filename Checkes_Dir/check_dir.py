@@ -6,8 +6,8 @@ def check_name(img_dir):
 
 	
 
-	src_small = img_dir + '/textures_small/'
-	#src_large = img_dir + '/textures_large'
+	src_small = img_dir + ' '
+	#src_large = img_dir + ' '
 
 	try:
 		if not os.path.exists(src_small):
