@@ -5,12 +5,12 @@ import shutil
 def change_name(img_dir):
 
 	#renaming textures to textures_small
-	src_small = ''.join([img_dir]) + '/textures/'
-	dest_small = ''.join([img_dir]) + '/textures_small/'
+	src_small = ''.join([img_dir]) + ' '
+	dest_small = ''.join([img_dir]) + ' '
 
 	#renamed textures_large to textures
-	src_large = ''.join([img_dir]) + '/textures_large/'
-	dest_large = ''.join([img_dir]) + '/textures/'
+	src_large = ''.join([img_dir]) + ' '
+	dest_large = ''.join([img_dir]) + ' '
 	
 	try:
 		if os.path.exists(src_small):
