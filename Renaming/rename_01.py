@@ -5,12 +5,12 @@ import shutil
 def change_name(img_dir):
 
 	#renaming textures to textures_small
-	src_small = img_dir + '/textures/'
-	dest_small = img_dir + '/textures_small/'
+	src_small = img_dir + ' '
+	dest_small = img_dir + ' '
 
 	#renamed textures_large to textures
-	src_large = img_dir + '/textures_large/'
-	dest_large = img_dir + '/textures/'
+	src_large = img_dir + ' '
+	dest_large = img_dir + ' '
 	
 	try:
 		if os.path.exists(src_small):
@@ -25,7 +25,7 @@ def change_name(img_dir):
 		print 'ERROR, file path has already been renamed'
 
 if __name__ == "__main__":
-	f = open('a_list.txt','r')
+	f = open(' ','r')
 	for line in f:
 		img_dir = line.rstrip('\n')
 		print 'dealing with this directory: ', img_dir
