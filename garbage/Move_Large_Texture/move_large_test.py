@@ -3,8 +3,8 @@ import shutil
 
 for name in os.walk('.').next()[1]:
 
-    dest = os.path.dirname(os.path.join(os.path.abspath(name),name))+'/textures_large/'
-    src  = os.path.dirname(os.path.join(os.path.abspath(name),name))+'/textures/textures_large/'
+    dest = os.path.dirname(os.path.join(os.path.abspath(name),name))+' '
+    src  = os.path.dirname(os.path.join(os.path.abspath(name),name))+' '
     print(dest)
 
     if not os.path.exists(dest):
