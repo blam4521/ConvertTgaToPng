@@ -1,1 +1,0 @@
-c:\python27\python -i Convert_longHand_b.py
