@@ -1,9 +1,7 @@
 import os, sys
-import os.path
 from PIL import Image, ImageFile
 #ImageFile.LOAD_TRUNCATED_IMAGES = True
 import shutil
-
 
 
 def convert_tga(img_dir):
