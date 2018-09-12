@@ -1,14 +1,16 @@
-import os, sys
-import os.path
-import shutil
+"""Check if the director and the source are similar files."""
+
+# Built-in imports
 import filecmp
 from filecmp import dircmp
-import filecmp
+import os
+import sys
+
 
 dir1 = " "
 dir2 = " "
 
-dcmp = dircmp(dir1, dir2) 
+dcmp = dircmp(dir1, dir2)
 
 
 for name in dcmp.left_only:
