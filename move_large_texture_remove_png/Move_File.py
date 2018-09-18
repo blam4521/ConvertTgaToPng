@@ -6,7 +6,7 @@ import os
 import shutil
 import sys
 
-# Third party imports
+# Third-party imports
 from PIL import Image, ImageFile
 import Tkinter
 import tkFileDialog
@@ -17,6 +17,7 @@ def move_tga(img_dir):
 
     Args:
         img_dir(str): Path to images being moved.
+
     """
 
     large_subdir = img_dir + "/texture_large"
@@ -26,7 +27,7 @@ def move_tga(img_dir):
         logging.info('there is already a folder named %s' % (large_subdir))
         for aFile in os.listdir(large_subdir):
             if aFile.endswith('tga'):
-                print "Found tga:" + aFile
+                logging.info('Found tga: %s', aFile)
                 src_file = os.path.join(large_subdir, aFile)
                 dst_file = os.path.join(parent_dir, aFile)
                 logging.info("copying file: " + aFile)
