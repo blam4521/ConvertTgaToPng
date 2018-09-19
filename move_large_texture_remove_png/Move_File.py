@@ -20,7 +20,7 @@ def move_tga(img_dir):
 
     """
 
-    large_subdir = img_dir + "/texture_large"
+    large_subdir = os.join([img_dir, 'texture_large'])
     parent_dir = img_dir
 
     if os.path.exists(large_subdir):
@@ -40,7 +40,7 @@ def move_tga(img_dir):
 
                 # Removes png.
                 if os.path.lexists(pngToRemove):
-                    print "removing file: "+pngToRemove
+                    print "removing file: ", pngToRemove
                     os.remove(pngToRemove)
 
 
