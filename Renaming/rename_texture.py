@@ -1,5 +1,6 @@
 """Changes the texture name into something else."""
 
+# Built in imports
 import os
 import sys
 import os.path
@@ -22,7 +23,7 @@ def change_texture_name(img_dir):
                       os.path.join(img_dir, new_file))
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     f = open('test.txt', 'r')
     for line in f:
         img_dir = line.rstrip('\n')
