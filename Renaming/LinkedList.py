@@ -1,3 +1,4 @@
+# Class build for linked list.
 
 
 class Node(object):
